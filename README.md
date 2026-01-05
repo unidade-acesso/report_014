@@ -1,9 +1,9 @@
 ---
-website: "Nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-owner: "Nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
-seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+website: "BIP - Barómetro para a Qualidade da Informação"          # Entre as aspas escreve o nome do website
+date: "05/01/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri: "https://b-info.pt/"   # Entre as aspas escreve o domínio do website
+owner: "Centro de Estudos de Comunicação e Sociedade do Instituto de Ciências Sociais da Universidade do Minho"         # Entre as aspas escrever o nome do owner do website
+seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}
