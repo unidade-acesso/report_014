@@ -6,12 +6,12 @@ owner: "Centro de Estudos de Comunicação e Sociedade do Instituto de Ciências
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# BIP - Barómetro para a Qualidade da Informação
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 05/01/2026
+- URL: https://b-info.pt/
+- Propriedade: Centro de Estudos de Comunicação e Sociedade do Instituto de Ciências Sociais da Universidade do Minho
+- Candidatura: Prata
 
 ## Relatório de Auditoria
 
