@@ -15,7 +15,7 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do BIP - Barómetro para a Qualidade da Informação](relatorio_report_014 (4).html)
+Consulte aqui a última atualização: [Relatório do BIP - Barómetro para a Qualidade da Informação](report_014.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
